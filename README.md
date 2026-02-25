@@ -219,10 +219,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Contact
 
-Project Link: [https://github.com/janithjay/inventory-management-system](https://github.com/janithjay/inventory-management-system)
-
----
-
-Made with ❤️ by [janithjay](https://github.com/janithjay)
