@@ -294,6 +294,4 @@ Contributions are welcome! For group members:
 
 ---
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
